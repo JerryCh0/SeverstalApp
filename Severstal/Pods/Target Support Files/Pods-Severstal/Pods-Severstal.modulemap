@@ -1,0 +1,6 @@
+framework module Pods_Severstal {
+  umbrella header "Pods-Severstal-umbrella.h"
+
+  export *
+  module * { export * }
+}
